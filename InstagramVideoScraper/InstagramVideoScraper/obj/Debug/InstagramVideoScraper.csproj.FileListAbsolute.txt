@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\InstagramVideoScraper\InstagramVideoScraper\bin\Debug\InstagramVideoScraper.exe.config
+C:\Users\User\source\repos\InstagramVideoScraper\InstagramVideoScraper\bin\Debug\InstagramVideoScraper.exe
+C:\Users\User\source\repos\InstagramVideoScraper\InstagramVideoScraper\bin\Debug\InstagramVideoScraper.pdb
+C:\Users\User\source\repos\InstagramVideoScraper\InstagramVideoScraper\obj\Debug\InstagramVideoScraper.csprojAssemblyReference.cache
+C:\Users\User\source\repos\InstagramVideoScraper\InstagramVideoScraper\obj\Debug\InstagramVideoScraper.Form1.resources
+C:\Users\User\source\repos\InstagramVideoScraper\InstagramVideoScraper\obj\Debug\InstagramVideoScraper.Properties.Resources.resources
+C:\Users\User\source\repos\InstagramVideoScraper\InstagramVideoScraper\obj\Debug\InstagramVideoScraper.csproj.GenerateResource.cache
+C:\Users\User\source\repos\InstagramVideoScraper\InstagramVideoScraper\obj\Debug\InstagramVideoScraper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InstagramVideoScraper\InstagramVideoScraper\obj\Debug\InstagramVideoScraper.exe
+C:\Users\User\source\repos\InstagramVideoScraper\InstagramVideoScraper\obj\Debug\InstagramVideoScraper.pdb
